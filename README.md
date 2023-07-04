@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @collohtryzie
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on developing websites
-- 📫 How to reach me ...email:collinskithinji2002@gmail.com
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning R and Python
+- 💞️ I’m looking to collaborate on analyzing and visualizing data
+- 📫 How to reach me ...email:collinskithinji0@gmail.com
 
 <!---
 collohtryzie/collohtryzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
